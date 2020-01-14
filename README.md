@@ -1,5 +1,3 @@
 # Hospital Database Project
-A relational database made using MySQL that performs symptom-based patient scheduling and other complex tasks
+Hospital Management Database: The purpose of this database is to keep record of hospital data. The hospital needs to assign nurses to provide in-home care or specify that patients want/need transportation to the hospital (if it's immediate or not). The hospital also needs to assign employees (doctors/nurses) and patients to appointments based off of the ailment of the patient. The hospital will also be able to sell medicine that is prescribed in an appointment that is available in store. This will be accomplished by querying based on data like: nurse’s licenses (in order to provide in home care or emergency transportation), ailments (certain ailments would automatically reduce search to specific departments, etc.), doctor specialty (doctors belong to certain department), fulfilling prescriptions, etc.
 
-**What can you expect in the future?** <br/>
-I have currently not pushed any of the files since I'm still in the research & planning stage. I am working on an ER model for the database at the moment as well as determining the possible needs of the database. I will be making this project public once I am halfway through the development stage.
